@@ -1,0 +1,128 @@
+﻿id,userPrincipalName,displayName,objectType,userType,isUser,isGroup,isGuest
+7d0b023f-93a3-4d5f-a6e3-ee32fa5fb3e7,,MBCMJ02Q4L4-K,device,,False,False,False
+34f9036f-5500-4311-9b5e-ea06143e29b6,,NBT-HR-K-002073,device,,False,False,False
+9c47257b-6db8-4a9c-a1f2-c5d8db7f01cf,,c74751d1-9c5a-4e75-bdfb-78a5742a7f67_Windows_3/2/2020_11:59 PM,device,,False,False,False
+b16c861d-ef44-4123-b310-5dbb5c919fba,,a316f407-5076-404b-8d90-fb72e59b416f_Windows_3/3/2020_3:44 AM,device,,False,False,False
+bfee76f5-b940-4280-8bce-7d4ff63395c8,,eb81e3f3-d34c-49e9-b53b-f6ab28318481_Windows_3/5/2020_4:40 AM,device,,False,False,False
+12c99724-fcb0-4711-a475-b73c296e007f,,TURMJ02Q4J2-K,device,,False,False,False
+46b0fe9b-635e-41df-9c46-dda1561d1f0e,,TAMMJ02Q4JH-K,device,,False,False,False
+c1e45304-d9e9-46dc-8f26-d6f5ec0ed51d,,jefox_Windows_2/18/2020_3:10 PM,device,,False,False,False
+ecc3a7cf-03be-42b8-84bf-9f01edf182f8,,FAL-HR-K-002173,device,,False,False,False
+9dea7678-dc4e-40f0-a50b-37061025017d,,NWMMJ02Q4HF-K,device,,False,False,False
+dc2b53d4-0710-4d58-9bb0-37b4337f66a9,,SPF-HR-K-000640,device,,False,False,False
+ac0fa2e4-c244-42bc-8ee0-9577ae3b0efd,,VNT-HR-K-002172,device,,False,False,False
+2257e30e-552a-4004-a87b-58d996eb7160,,de566e7e-1e4c-4c2c-846a-ef6655a9967c_Windows_2/24/2020_6:30 PM,device,,False,False,False
+ebd91482-6f1c-4126-9c83-68efb7084650,,MCHMJ02Q7FX-K,device,,False,False,False
+b4e2762e-4d3e-43eb-af8c-6514bff069d5,,NBT-HR-K-002074,device,,False,False,False
+c547f994-7bd8-404c-9026-bbb51c32cb69,,SCHMJ02Q4J3-K,device,,False,False,False
+450a35a1-bfe2-4b6e-8f3f-6c24199873ae,,beb204c0-dd9e-432b-97d3-4477bbe9ea45_Windows_2/12/2020_6:41 AM,device,,False,False,False
+2ce26c9e-89ba-42c9-b923-28a0f6b17b51,,264df0b7-a5c5-4fd6-9723-13a36745a664_Windows_2/28/2020_4:43 PM,device,,False,False,False
+ddff520b-216f-4ef4-909b-3a9f5b116f62,,TAMMJ02Q7G8-K,device,,False,False,False
+04fc9431-a1ae-416a-9791-f39308aa6c55,,MCHMJ02Q4HD-K,device,,False,False,False
+351c86c0-aa7a-42ed-8ef0-3a55a3ee87ec,,TAMMJ02Q7FN-K,device,,False,False,False
+72de26ff-6b1d-4b45-b786-3c3a5f10cd7e,,TAMMJ02Q4KL-K,device,,False,False,False
+e6bd87d3-9700-4109-847c-529cb1ce9f1d,,GUI-HR-K-002408,device,,False,False,False
+a78b458d-3464-4b0d-9da4-28807cedc0a7,,SCHMJ02Q4J8-K,device,,False,False,False
+176bcbf4-2d6f-4f6e-9436-21b56ac21d28,,KCC-MJQ7FT-K,device,,False,False,False
+696bf8a0-f1d7-44ae-a8b2-4a89bde1d473,,PORMJ02Q4J0-K,device,,False,False,False
+196afc1b-5662-47ed-b1fc-db18295a5941,,SCHMJ02Q4KB-K,device,,False,False,False
+d0e96436-2a83-4d38-986a-e1f24787d7bc,,TURMJ02Q4HK-K,device,,False,False,False
+012bc4e6-8581-40ac-8f0f-96435c5409e8,,KCK-IT-K-002009,device,,False,False,False
+0e9ac8ae-e396-47c3-a8ce-0c63cae4b5c5,,WINMJ02Q4JM-K,device,,False,False,False
+7020a015-2ff8-4bf5-a1a6-7a75a0c1b3dc,,CABMJ02Q4KG-K,device,,False,False,False
+a23f2400-cc9b-4edf-8ad3-f851e5140fe5,,SCHMJ02Q4K5-K,device,,False,False,False
+b160e64e-708f-42ce-b93b-1e3dac2921c7,,TAMMJ02Q4H5-K,device,,False,False,False
+ba918e2d-144f-432e-92eb-1d973e5f6889,,DFA000113,device,,False,False,False
+9833e08c-4b06-4dbf-91ea-3d69a5cabc5e,,19822798-79ba-4e66-8ffb-f3b3583abeff_Windows_3/21/2020_1:27 PM,device,,False,False,False
+592bcced-1623-4331-bbf8-1cbf9017272a,,DMD-PD-D-002318,device,,False,False,False
+62021d85-06f6-45e1-a915-384e0f8ef906,,CAS_MJ02Q4HU-K,device,,False,False,False
+82968da0-ef6f-49f2-be9a-e99d5ae84a47,,PORMJ02Q4JG-K,device,,False,False,False
+51624cf5-b338-4a6d-a26a-157ef3366dee,,SCHMJ02Q4JR-K,device,,False,False,False
+fa76b46c-e0de-417c-b274-00cd56160779,,RDGMJ02Q4K8-K,device,,False,False,False
+c0b171fe-c9d2-4d21-b205-c46421477d4d,,WTHMJ02Q4KF-K,device,,False,False,False
+1512759e-daa7-4605-8161-685b9a5b2492,,NWMMJ02Q4HE-K,device,,False,False,False
+ee002f7f-eb1e-449d-b7ce-e08a4feafb41,,NWMMJ02Q4HP-K,device,,False,False,False
+cbecd8b1-5825-4208-be9b-82ba32811cab,,ngonzal_Windows_8/8/2020_2:16 AM,device,,False,False,False
+568f5535-6bda-4190-bed8-abee55a5e38d,,POL-PD-K-000693,device,,False,False,False
+2d27acb2-b111-4656-84f8-741c6d58ab1b,,WNP-HR-K-002276,device,,False,False,False
+bc140f59-d2a1-4480-aa7a-66f439f2af3e,,TAMMJ02Q4KQ-K,device,,False,False,False
+db92a8b3-198b-42f5-bcac-76bd8cc0d887,,SMTMJ02Q7FH-K,device,,False,False,False
+b15826ee-6897-4627-a065-521181877969,,cd27e375-7d65-44e0-be33-dd4b002eea11_Windows_2/13/2020_3:09 PM,device,,False,False,False
+e6374258-0148-404e-b615-601bdef98d58,,TURMJ02Q4KT-K,device,,False,False,False
+6a8593af-7376-47df-a4cf-1b33161cbf08,,2e51739c-0200-4909-809c-0abe8ba8ea86_Windows_3/18/2020_3:02 AM,device,,False,False,False
+ab5a8c60-3451-4f06-935d-9f22506e0c48,,b8bb3d43-8d47-493a-a313-32b60a9d3c82_Windows_3/9/2020_2:45 PM,device,,False,False,False
+acc92ce7-81d9-44fb-8d2a-4af754329d14,,TAMMJ02Q4JS-K,device,,False,False,False
+456b77ab-8aeb-4dad-b07c-8f2f673685ac,,DFA000109,device,,False,False,False
+b3dc20c0-6975-434e-b4c6-406f57e91769,,CABMJ01YFSW-K,device,,False,False,False
+5c682c92-4f40-4c24-b3dd-4198ba523de5,,FTM-HR-K-002175,device,,False,False,False
+ebacbd19-482d-4dc9-8767-90ca928c33a2,,CABMJ01YFSL-K,device,,False,False,False
+134957fc-728f-45f6-864e-30344fe2cd48,,MDCMJ02Q7F8-K,device,,False,False,False
+4fe40536-3a1b-480d-b47e-1d2d92dc5b39,,CABMJ02Q4J5-K,device,,False,False,False
+e8c4bbb7-cf8b-4108-a4db-b8d05734b98e,,GREMJ02Q4HB-K,device,,False,False,False
+640b57b8-90be-48de-a700-fceb4622f2bc,,MBCMJ02Q4H7-K,device,,False,False,False
+ddfc5fc9-c41b-474c-82fd-a9ef391e3eeb,,TWFMJ02Q4JP-K,device,,False,False,False
+70be5935-1082-4c2f-8baf-2aa370b881b1,,MCHMJ02Q7FE-K,device,,False,False,False
+7bc9f113-439a-41e6-8c17-817de48498c4,,TAMMJ02Q4JD-K,device,,False,False,False
+edc7e921-574a-43d5-8dd9-da47274b0ae7,,TURMJ02Q4KN-K,device,,False,False,False
+7ad17c20-d2be-4240-8494-6461ffee1aec,,ADRMJ02Q4HG-K,device,,False,False,False
+4047a2e8-80fb-4af7-a711-043229b5b06c,,BISMJ02U0WP-K,device,,False,False,False
+dd6e73ec-1dd5-4307-b553-fd6477296fc1,,RCM-HR-K-002297,device,,False,False,False
+84f5314d-0893-4a63-b5c4-070c03c0da10,,SCHMJ02UFLB-K,device,,False,False,False
+56f927ae-0a3e-4003-81c7-9b86ec27b61f,,PORMJ02Q7G1-K,device,,False,False,False
+d85bc406-a34a-4f70-a1ea-178b2eeaa25c,,TURMJ02Q4K9-K,device,,False,False,False
+3f2d0716-dbc6-4e61-bdc7-55af4c4ce5ed,,4d320bd0-c82a-48e9-b1ec-f4cfaafefed8_Windows_2/19/2020_6:35 AM,device,,False,False,False
+82f6fbc9-1c53-490e-b0e8-7835d44fbcc3,,DFA000114,device,,False,False,False
+2a2f57e3-88a0-41ff-b1d1-85c01a2b606f,,TAMMJ02Q7FY-K,device,,False,False,False
+37d5ff74-22f9-437f-9419-f6c06e0d904e,,CABMJ01YFSE-K,device,,False,False,False
+1ea319d6-542d-4be1-8f5b-b06254541644,,SCHMJ02Q4JQ-K,device,,False,False,False
+a6d6e6f9-c589-478a-965a-09fe6eae5590,,POR-HR-K-002371,device,,False,False,False
+31b84414-43d6-47a7-ab92-425edfb164b9,,MBCMJ02Q4HH-K,device,,False,False,False
+e07543b1-3cd0-4971-a6c4-88143219f2db,,TURMJ02Q4KP-K,device,,False,False,False
+8de0545c-67ae-47d3-85fd-a14f704812bc,,CABMJ02Q4J7-K,device,,False,False,False
+6a44995c-6244-461d-8fa1-1b2857208151,,SLCMJ02Q7FG-K,device,,False,False,False
+9d06153c-758a-4dd3-b039-c3780843ab7e,,DFA000110,device,,False,False,False
+24160379-61d3-45b0-b2a4-f72e440a5bfb,,WTHMJ02Q7FS-K,device,,False,False,False
+b7b481d5-65a6-4b38-b407-6c087a81cf20,,DFA000111,device,,False,False,False
+d4e1fdba-b1d9-41de-9aab-0e308a3bd6c0,,DMD-PD-D-002250,device,,False,False,False
+bd1a0566-a694-4c93-b640-329056df571e,,CABMJ02Q4JN-K,device,,False,False,False
+802f43f7-f488-4931-9a44-8a82f3972eca,,WINMJ02Q4JZ-K,device,,False,False,False
+29c64d70-329a-4df5-9ddc-874fa7428808,,CASMJ02Q4K2-K,device,,False,False,False
+61029fd1-693f-4ed5-94ab-8a9fa6539f7f,,SCHMJ02Q4J4-K,device,,False,False,False
+ecfbdb28-fd12-488c-b08d-d4d40cecbbf9,,KC01TEST17-K,device,,False,False,False
+db7f3635-8811-42ca-82d2-2ad9a3f9eb0e,,ea9115e7-80b8-45c9-8911-37f8d748d712_Windows_2/14/2020_1:05 AM,device,,False,False,False
+34d1d9f0-32c6-449f-aef9-f2cf65f52d7d,,9d6007fa-4555-4f86-b4d6-c8e05bf633a8_Windows_3/8/2020_2:12 PM,device,,False,False,False
+a72d5109-136b-4295-aff1-794cdb2eafc3,,f571dbc6-b8bc-4e4c-ac07-9419d335e145_Windows_3/8/2020_2:41 PM,device,,False,False,False
+1aa2be2a-ab17-402f-ab25-5b4a70a6ea51,,KIOSKTEST1,device,,False,False,False
+9a0fbe0f-3d80-45a6-af66-a9cf7d137bc7,,0b829a7a-6b9c-4d6c-a679-2b0dda7f07fd_Windows_6/24/2020_2:16 AM,device,,False,False,False
+337bdd8e-0cfc-4ac6-a64a-318023956931,,GRL-HR-K-000829,device,,False,False,False
+b4fc50d5-95cd-4469-adc8-0e243e799bb0,,ZUM-HR-K-004097,device,,False,False,False
+176dc76f-4a3a-41fe-9547-87cd2621fde3,,ALL-HR-K-000797,device,,False,False,False
+edd06bf7-4737-43f4-9a5a-7f2e3e50cb7e,,ZUM-HR-K-004064,device,,False,False,False
+3be01199-70e2-4c2c-9d32-6b5a5ce3b1df,,RDG-HR-K-002073,device,,False,False,False
+d5b2bbc6-1be6-4289-835e-f89d800c7b00,,ALL-HR-K-000800,device,,False,False,False
+5af318ce-61ef-47c7-b9b6-36c57044d8ce,,POL-PD-K-002195,device,,False,False,False
+d2f3853c-1d34-4e29-bf3a-670815388aa6,,8d56e40b-941a-455d-bca9-78131b90ab48_Windows_3/5/2020_9:06 PM,device,,False,False,False
+a4c8db4b-b239-4a03-9f68-88ad3e1fd698,,HEN01MJ02Q4H8-K,device,,False,False,False
+ed87ae70-6149-4634-bd55-9232017c634d,,NWT-HR-K-002012,device,,False,False,False
+7f72eff0-5062-4af0-ba71-b654efe91428,,SCHMJ02Q4HZ-K,device,,False,False,False
+a1651992-7c51-41cc-a51c-003926d6c9af,,SLC-HR-K-004104,device,,False,False,False
+302a14cd-faea-4eab-9160-fd2911d22d94,,GRL-HR-K-000828,device,,False,False,False
+20428518-511f-4219-a44e-8f58bcf432a7,,BEV-PD-L-002385,device,,False,False,False
+5671a5b0-edb7-4d00-a366-83763fe18cdb,,ELD-HR-K-002287,device,,False,False,False
+b4ba3227-0b99-482b-aad8-a70359d94126,,DMD-PD-K-002343,device,,False,False,False
+cbf6baf6-08f5-47d1-9309-8a35aca8588a,,ELD-HR-K-002288,device,,False,False,False
+ac0a61c5-3686-41a2-9e28-1a411871cd40,,CLOMJ02Q7FW-K,device,,False,False,False
+d1b11490-e30f-4a02-b5be-2a2d030abae8,,ALL-HR-K-000801,device,,False,False,False
+e144d05b-58fb-4b0e-86a8-71b269de2e88,,MCHMJ02Q7FJ-K,device,,False,False,False
+ecb04efc-95a5-4538-a7d9-9bbbb5cd9f3d,,TUR-HR-K-004250,device,,False,False,False
+879de61d-478a-474f-8eed-ca258593d9b1,,ZUM-HR-K-004065,device,,False,False,False
+7b5e4368-ce6a-4bf4-ab1a-90b1b18abe75,,BRU-CM-D-004203,device,,False,False,False
+80952e3d-b564-43c1-b842-27f76232dcf7,,GRL-HR-K-000830,device,,False,False,False
+8cd0d1a9-82e7-4824-9469-20d7af089d41,,WNP-HR-K-004249,device,,False,False,False
+d7eea10f-91a4-459a-ba4d-02a286a3e191,,KCK-HR-K-000649,device,,False,False,False
+619ff467-4b5e-44b2-b8d7-4aba13bc5eab,,KIOSKTEST000875,device,,False,False,False
+24daa589-45ad-430f-8d05-fd37c07cf8bc,,WNB-HR-K-004642,device,,False,False,False
+27f40ffd-a16f-41c6-b17d-12caa60e01d3,,CHL-HR-K-000855,device,,False,False,False
+4cb48b8e-f67b-44cc-a9ac-b3a9a0db5dd7,,VEN-HR-K-004699,device,,False,False,False
+8bb7771e-f6ad-423b-9696-4185a204a9b9,,c81c39b3-a05d-4015-b2c6-14862a260309_Windows_8/4/2020_9:01 PM,device,,False,False,False
+7408e33c-dc00-4aa8-9f06-9c3e2712f5d0,,KCK-IT-K-001348,device,,False,False,False
